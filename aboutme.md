@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm <strong>Jonathan Astermark</strong>, a PhD student at the Division of Computer Vision and Machine Learning at Lund University, supervised by [Viktor Larsson](https://vlarsson.github.io/) and [Anders Heyden](https://scholar.google.se/citations?user=9j-6i_oAAAAJ&hl) and funded by the [ELLIIT project Geometrically Constrained Learning for Vision](https://elliit.se/project/geometrically-constrained-learning-for-vision/). Previously, I obtained my master's degree in Engineering Physics at Lund University in 2019.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+My research is on geometry estimation problems in computer vision related to Structure-from-Motion and Simultaneous Localization and Mapping. Specifically, I'm interested in how machine learning and geometry should be combined for efficient and accurate estimation.
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In my free time, I enjoy boardgames, skiing, and traveling.

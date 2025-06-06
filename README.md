@@ -1,3 +1,20 @@
+# Running locally
+Instructions from the [academicpages template](https://github.com/academicpages/academicpages.github.io).
+
+Install dependencies
+```
+sudo apt install ruby-dev ruby-bundler nodejs
+```
+Build
+```
+bundle config set --local path 'vendor/bundle'
+bundle install
+```
+Serve
+```
+bundle exec jekyll serve -l -H localhost 
+```
+
 # Beautiful Jekyll
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)

@@ -1,0 +1,4 @@
+body .container-md {
+  max-width: 1300px !important; /* override Bootstrap's 1170px */
+  width: 100%; /* ensure full width */
+}
