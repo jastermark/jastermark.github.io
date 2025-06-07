@@ -14,6 +14,10 @@ Serve
 ```
 bundle exec jekyll serve -l -H localhost 
 ```
+To view remotely: ssh port forward
+```
+ssh -L 4000:localhost:4000 USER@HOSTNAME
+```
 
 # Beautiful Jekyll
 
